@@ -3,12 +3,12 @@ from twilio.rest import Client
 
 # Find your Account SID and Auth Token at twilio.com/console
 # and set the environment variables. See http://twil.io/secure
-TWILIO_ACCOUNT_SID = 'AC5173cb3cd52ad28d247eef71b6a3b229'
-TWILIO_AUTH_TOKEN = '09587f94c772208b129bead72a427ad2'
+TWILIO_ACCOUNT_SID = ''
+TWILIO_AUTH_TOKEN = ''
 account_sid = TWILIO_ACCOUNT_SID
 auth_token = TWILIO_AUTH_TOKEN
 
-api_key = '49290929bf2883210db08ab9aa9494cb'
+api_key = ''
 # lat = 6.469044
 # long = 7.549517
 # my_location = [lat, long]
